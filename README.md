@@ -59,6 +59,7 @@ $ns run
  
 # OUTPUT
 
+<img width="1600" height="1066" alt="4" src="https://github.com/user-attachments/assets/13fee300-7235-4d95-8d4e-5815488a59c5" />
 
 # RESULT
 
